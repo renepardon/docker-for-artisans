@@ -1,0 +1,17 @@
+.env*
+.git*
+.style*
+Dockerfile*
+Jenkinsfile
+phpunit.xml
+README.md
+/storage/logs/*log
+tests/
+vendor/
+node_modules/
+build/
+build*
+.idea
+.DS_Store
+*.xml
+*.properties

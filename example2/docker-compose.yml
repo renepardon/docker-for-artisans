@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  webserver:
+    container_name: webserver
+    image: nginx:latest
+    ports:
+      - 8081:80
